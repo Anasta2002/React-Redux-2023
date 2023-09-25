@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: 500px;
+  margin: 20px auto;
+  padding: 15px;
+  background-color: rgb(247, 233, 211);
+}
+
+.add_team_form {
+  width: 100%;
+  border: 1px solid rgb(81, 81, 81);
+  border-radius: 3px;
+  height: 30px;
+}
+
+.add_team_btn {
+  width: 100%;
+  border: 1px solid rgb(81, 81, 81);
+  border-radius: 3px;
+  height: 30px;
+  margin: 15px auto 0;
+  background-color: rgb(89, 89, 207);
+  color: white;
+}

@@ -1,0 +1,23 @@
+.nav_menu {
+  background-color: rgb(250, 248, 167);
+  font-size: 25px;
+  padding: 10px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.link {
+  color: rgb(50, 143, 0);
+  text-decoration: none;
+  border-radius: 15px;
+  padding: 20px;
+  min-width: 200px;
+}
+
+.link:hover {
+  background-color: rgb(50, 143, 0);
+  color: rgb(255, 241, 180);
+}

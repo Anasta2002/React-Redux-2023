@@ -1,0 +1,14 @@
+.nav_menu {
+  background-color: blue;
+
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  font-size: 25px;
+  padding: 20px;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}

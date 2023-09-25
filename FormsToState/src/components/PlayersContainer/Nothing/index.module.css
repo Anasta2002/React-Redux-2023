@@ -1,0 +1,14 @@
+.item {
+  background-color: rgb(56, 165, 248);
+  border: 1px solid blue;
+  border-radius: 10px;
+  height: 30px;
+  margin: 20px auto;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  color: white;
+  font-size: 25px;
+}
