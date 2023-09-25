@@ -1,0 +1,35 @@
+.user_card {
+  border: 1px solid greenyellow;
+  border-radius: 10px;
+  background-color: yellowgreen;
+  padding: 20px;
+}
+
+.ava {
+  width: 100%;
+}
+
+.btn {
+  width: 20px;
+  height: 20px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btns button {
+  height: 50px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}
+
+.btns button:hover {
+  box-shadow: 3px 3px 3px gray;
+}

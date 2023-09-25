@@ -1,0 +1,1 @@
+Practice of fetch queries and working with arrays

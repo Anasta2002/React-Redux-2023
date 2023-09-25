@@ -1,0 +1,13 @@
+.container {
+  background-color: yellowgreen;
+  width: 800px;
+  margin: 20px auto;
+  border-radius: 10px;
+  padding: 20px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.container b {
+  color: red;
+}
